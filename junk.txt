@@ -5,3 +5,4 @@ third line added
 5th line
 junkjunk
 6th line
+Added this line via REMOTE git
