@@ -1,5 +1,5 @@
-git config --system -e
-C:\Program Files\Git\etc\gitconfig
+# git config --system -e
+# C:\Program Files\Git\etc\gitconfig
 [diff "astextplain"]
 	textconv = astextplain
 [filter "lfs"]
@@ -23,7 +23,7 @@ C:\Program Files\Git\etc\gitconfig
 	useHttpPath = true
 [init]
 	defaultBranch = main
-====================================================================================
+# ====================================================================================
 git config --global -e
 C:\Users\DavidK\.gitconfig
 [filter "lfs"]
@@ -34,7 +34,7 @@ C:\Users\DavidK\.gitconfig
 [user]
 	name = David KILDARE Lee
 	email = ddlee202257@users.noreply.github.com
-====================================================================================
+# ====================================================================================
 git config --local -e
 G:\My Drive\My Web Sites\git-familyfoodfest\.git\config
 [core]
