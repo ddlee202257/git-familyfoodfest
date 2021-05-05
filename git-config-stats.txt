@@ -1,4 +1,4 @@
-# git config --system -e
+### git config --system -e ###
 # C:\Program Files\Git\etc\gitconfig
 [diff "astextplain"]
 	textconv = astextplain
